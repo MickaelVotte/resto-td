@@ -15,7 +15,7 @@ h1{
 }
 
 h2{
-    margin: 2rem auto;
+    margin: 3rem auto;
     font-size: 3rem;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: yellow;
@@ -52,7 +52,6 @@ h2{
 .footer{
     background-color: black;
     color: yellow;
-    padding: 2rem;
 }
 
 
