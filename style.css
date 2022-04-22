@@ -1,0 +1,65 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    margin: 2rem;
+    padding: 2rem;
+    color: yellow;
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    margin: 3rem;
+    font-size: 3rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+/* .header .bg{
+    background-image: url(./asian-kitchen-pano.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} */
+
+.navbar-bg{
+    background-color: black;
+}
+
+.f-yellow {
+    color: yellow;
+}
+
+.logo{
+    height: 100%;
+    width: 40%;
+}
+
+.plat1{
+    height: 70%;
+    width: auto;
+}
+
+
+.footer{
+    background-color: black;
+    color: yellow;
+    padding: 2rem;
+}
+
+
+@media screen and (max-width: 700px)
+   
+   {
+       h1{
+           font-size: 3rem;
+   } 
+       }
+       
+
