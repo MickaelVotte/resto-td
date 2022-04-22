@@ -15,7 +15,7 @@ h1{
 }
 
 h2{
-    margin: 3rem;
+
     font-size: 3rem;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
@@ -52,6 +52,10 @@ h2{
     color: yellow;
     padding: 2rem;
 }
+
+
+
+
 
 
 @media screen and (max-width: 700px)
